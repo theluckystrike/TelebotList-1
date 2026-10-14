@@ -301,7 +301,7 @@
 
 - [Watgbridge](https://github.com/akshettrj/watgbridge) - A forwarder from WhatsApp to Telegram written in GoLang
 
-- [Anon Inbox](https://t.me/AnonInboxProBot?start=botlist) - Receive text questions through a personal Telegram link. Reply privately or share a public answer. Recipients can buy a limited sender hint; senders see this notice before sending. 11 interface languages. [Details](https://anon.zovo.one/).
+- [Anon Inbox](https://github.com/theluckystrike/telegram-anonymous-inbox-bot) [TypeScript] - Receive text questions through a personal Telegram link; reply privately or share a public answer. Free tier with optional paid features. Recipients can buy a limited sender hint, disclosed before sending. [Details](https://anon.zovo.one/).
 
 ### ➤ Disclaimer
 
