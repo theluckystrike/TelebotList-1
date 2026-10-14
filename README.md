@@ -301,6 +301,8 @@
 
 - [Watgbridge](https://github.com/akshettrj/watgbridge) - A forwarder from WhatsApp to Telegram written in GoLang
 
+- [AnonInbox](https://t.me/AnonInboxBot) - Receive anonymous messages from anyone on Telegram; honest feedback without revealing who asked. Web mini app with per-user stats, public answers, and shareable story cards. Multi-language (EN/RU/ES/PT). Web app: https://anoninbox-bot.lipmichal.workers.dev/app
+
 ### ➤ Disclaimer
 
 All the bots listed here are not made by me and I don't have any contact with developers. If any bot not working in the list please don't ask me.
